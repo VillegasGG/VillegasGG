@@ -17,7 +17,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=VillegasGG&show_icons=true&theme=radical" alt="Getsemani's Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VillegasGG&layout=compact&theme=radical" alt="Getsemani's Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VillegasGG&layout=compact&theme=radical&hide=html,css,jupyter%20notebook" alt="Getsemani's Top Langs" />
     </td>
   </tr>
 </table>
